@@ -90,8 +90,6 @@ Como diferencial, participo da estruturação de produtos **full-stack** com Nex
 | [e-commerce](https://github.com/Guilherme-Jardim/e-commerce) | Aplicação de e-commerce em TypeScript |
 | [DT-MONEY](https://github.com/Guilherme-Jardim/DT-MONEY) | Controle financeiro em React com TypeScript |
 
-> Os sistemas profissionais (Delphi, CRM e demais) são código privado das empresas e por isso não estão listados aqui.
-
 ## 🎓 Formação e cursos
 
 - **Ciência da Computação:** UniAmérica / Descomplica (2024 a 2027); UCS (2022 a 2024)
