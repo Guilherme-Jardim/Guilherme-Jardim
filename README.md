@@ -83,6 +83,7 @@ Como diferencial, participo da estruturação de produtos **full-stack** com Nex
 
 | Projeto | O que mostra |
 |---|---|
+| [delphi-utilitarios-br](https://github.com/Guilherme-Jardim/delphi-utilitarios-br) | Delphi / Object Pascal: validação de CPF e CNPJ, parcelas e testes |
 | [CLEAN-DDD](https://github.com/Guilherme-Jardim/CLEAN-DDD) | Clean Architecture e Domain-Driven Design em TypeScript |
 | [API-SOLID](https://github.com/Guilherme-Jardim/API-SOLID) | API construída seguindo princípios SOLID |
 | [NEST-CLEAN](https://github.com/Guilherme-Jardim/NEST-CLEAN) | NestJS com Clean Architecture |
