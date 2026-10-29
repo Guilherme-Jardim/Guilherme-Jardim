@@ -84,6 +84,9 @@ Como diferencial, participo da estruturação de produtos **full-stack** com Nex
 
 | Projeto | O que mostra |
 |---|---|
+| [agente-triagem-local](https://github.com/Guilherme-Jardim/agente-triagem-local) | Triagem de risco para agentes de IA: política determinística, modelo local que só restringe, auditoria e testes |
+| [mcp-ferramentas-dev](https://github.com/Guilherme-Jardim/mcp-ferramentas-dev) | Servidor MCP em TypeScript: CPF/CNPJ, Pix, boleto e parcelas, com testes de integração |
+| [llm-client-ts](https://github.com/Guilherme-Jardim/llm-client-ts) | Cliente de LLM em TypeScript: tool calling, saída estruturada com Zod, retry e streaming |
 | [api-monitoramento-equipamentos](https://github.com/Guilherme-Jardim/api-monitoramento-equipamentos) | API NestJS + Prisma: equipamentos, leituras, alertas, JWT, Swagger, Docker e testes |
 | [curriculo-match](https://github.com/Guilherme-Jardim/curriculo-match) | CLI em TypeScript: compara currículo e vaga, referência salarial e plano de 30 dias, com testes e CI |
 | [loja-virtual](https://github.com/Guilherme-Jardim/loja-virtual) | Loja virtual em Next.js, Prisma e Auth.js: catálogo, carrinho, pedidos e painel admin, com testes e CI |
