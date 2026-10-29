@@ -84,6 +84,7 @@ Como diferencial, participo da estruturação de produtos **full-stack** com Nex
 | Projeto | O que mostra |
 |---|---|
 | [api-monitoramento-equipamentos](https://github.com/Guilherme-Jardim/api-monitoramento-equipamentos) | API NestJS + Prisma: equipamentos, leituras, alertas, JWT, Swagger, Docker e testes |
+| [dev-toolbox](https://github.com/Guilherme-Jardim/dev-toolbox) | Guia de ferramentas para devs e um receptor de webhooks local em Node + TypeScript, com testes e CI |
 | [delphi-pix-boleto-cep](https://github.com/Guilherme-Jardim/delphi-pix-boleto-cep) | Delphi: payload Pix (BR Code), linha digitável de boleto e consulta de CEP, com testes |
 | [delphi-utilitarios-br](https://github.com/Guilherme-Jardim/delphi-utilitarios-br) | Delphi: validação de CPF e CNPJ, parcelas e testes |
 | [CLEAN-DDD](https://github.com/Guilherme-Jardim/CLEAN-DDD) | Clean Architecture e Domain-Driven Design em TypeScript |
