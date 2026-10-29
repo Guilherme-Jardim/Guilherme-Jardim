@@ -85,6 +85,7 @@ Como diferencial, participo da estruturação de produtos **full-stack** com Nex
 | Projeto | O que mostra |
 |---|---|
 | [api-monitoramento-equipamentos](https://github.com/Guilherme-Jardim/api-monitoramento-equipamentos) | API NestJS + Prisma: equipamentos, leituras, alertas, JWT, Swagger, Docker e testes |
+| [curriculo-match](https://github.com/Guilherme-Jardim/curriculo-match) | CLI em TypeScript: compara currículo e vaga, referência salarial e plano de 30 dias, com testes e CI |
 | [loja-virtual](https://github.com/Guilherme-Jardim/loja-virtual) | Loja virtual em Next.js, Prisma e Auth.js: catálogo, carrinho, pedidos e painel admin, com testes e CI |
 | [dev-toolbox](https://github.com/Guilherme-Jardim/dev-toolbox) | Guia de ferramentas para devs e um receptor de webhooks local em Node + TypeScript, com testes e CI |
 | [delphi-pix-boleto-cep](https://github.com/Guilherme-Jardim/delphi-pix-boleto-cep) | Delphi: payload Pix (BR Code), linha digitável de boleto e consulta de CEP, com testes |
