@@ -84,6 +84,7 @@ Como diferencial, participo da estruturação de produtos **full-stack** com Nex
 
 | Projeto | O que mostra |
 |---|---|
+| [teste-delphi-pedido-venda](https://github.com/Guilherme-Jardim/teste-delphi-pedido-venda) | Delphi + FireDAC + Firebird: pedido de venda com Clean Architecture, DDD, componentes visuais próprios, português e espanhol, acessibilidade para leitores de tela e 259 testes DUnitX |
 | [agente-triagem-local](https://github.com/Guilherme-Jardim/agente-triagem-local) | Triagem de risco para agentes de IA: política determinística, modelo local que só restringe, auditoria e testes |
 | [mcp-ferramentas-dev](https://github.com/Guilherme-Jardim/mcp-ferramentas-dev) | Servidor MCP em TypeScript: CPF/CNPJ, Pix, boleto e parcelas, com testes de integração |
 | [llm-client-ts](https://github.com/Guilherme-Jardim/llm-client-ts) | Cliente de LLM em TypeScript: tool calling, saída estruturada com Zod, retry e streaming |
